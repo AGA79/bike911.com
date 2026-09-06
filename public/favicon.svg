@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Bike911">
+  <rect width="32" height="32" rx="8" fill="#0A0A0B"/>
+  <circle cx="8.5" cy="22" r="5.25" fill="#F4F1EA"/>
+  <circle cx="8.5" cy="22" r="2.1" fill="#0A0A0B"/>
+  <circle cx="23.5" cy="22" r="5.25" fill="#F4F1EA"/>
+  <circle cx="23.5" cy="22" r="2.1" fill="#0A0A0B"/>
+  <path fill="#F4F1EA" d="M7.2 19.6h8.4l2.6-7.2h3.8L26.4 20h-3.2l-3.2-6.2h-1.6L15.6 20H9.4z"/>
+  <rect x="16.4" y="10.2" width="8.2" height="2.6" rx="0.6" fill="#B42318"/>
+  <rect x="22.2" y="7.4" width="2.4" height="3.6" rx="1.1" fill="#F4F1EA"/>
+</svg>
